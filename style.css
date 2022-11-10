@@ -292,7 +292,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(./img/img-1.png);
+	background-image: url(./img/pr_vd.png);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
@@ -307,7 +307,7 @@ p {
 	height: 100%;
 	width: 100%;
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-	opacity: 0.9;
+	opacity: 0.8;
 	z-index: -1;
 }
 #services .service-bottom .icon {
